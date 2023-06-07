@@ -9,7 +9,7 @@
 - Calculate the shortest route through three addresses, with the button in the lower left corner of the screen.
 
 ## Screenshots
-<img src="https://github.com/SergeyKykhov/NavigatorMapKit/blob/feature/Screenshots/1.png" width="214" height="443"><img src="https://github.com/SergeyKykhov/NavigatorMapKit/blob/feature/Screenshots/2.png" width="214" height="443"><img src="https://github.com/SergeyKykhov/NavigatorMapKit/blob/feature/Screenshots/3.png" width="214" height="443"><img src="https://github.com/SergeyKykhov/NavigatorMapKit/blob/feature/Screenshots/4.png" width="214" height="443">
+<img src="https://github.com/SergeyKykhov/NavigatorMapKit/blob/feature/Screenshots/1.png" width="214" height="433"><img src="https://github.com/SergeyKykhov/NavigatorMapKit/blob/feature/Screenshots/2.png" width="214" height="433"><img src="https://github.com/SergeyKykhov/NavigatorMapKit/blob/feature/Screenshots/3.png" width="214" height="433"><img src="https://github.com/SergeyKykhov/NavigatorMapKit/blob/feature/Screenshots/4.png" width="214" height="433">
 
 ## Technologies Used
 - MapKit
